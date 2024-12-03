@@ -1,0 +1,24 @@
+{
+  "name": "mehran-package",
+  "version": "1.0.0",
+  "description": "some package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/MehranZafar-1/nodejs-workspace"
+  },
+  "keywords": [
+    "awesome",
+    "javascript"
+  ],
+  "author": "Mehran",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
